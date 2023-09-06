@@ -1,4 +1,4 @@
-## <u>**atic: Software for Automated Interferencing Testing**</u>
+## <u>**atic: Software for Automated Interference Testing**</u>
 *atic* is a python implementation of an interference testbed that allows
 injection of an interference waveform at various ranging from either end of
 a point to point microwave link. While this code is mature enough to stand up a
